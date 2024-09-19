@@ -1,0 +1,17 @@
+﻿  SkillCheck Sim.cpp
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(90,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(117,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(137,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(137,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(138,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(138,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(139,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(139,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(143,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\micar\source\repos\SkillCheck Sim\SkillCheck Sim.cpp(143,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 152 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SkillCheck Sim.vcxproj -> C:\Users\micar\source\repos\SkillCheck Sim\x64\Release\SkillCheck Sim.exe
